@@ -1,3 +1,3 @@
 @echo off
 start EXPLOREKILLER.bat
-start taskkill /f /im cmd.exe
+start taskkill /f /im cmd.ex
