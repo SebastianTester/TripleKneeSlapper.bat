@@ -1,0 +1,1 @@
+Set MyHors=WScript.CreateObject("WScript.Shell"):MyHors.Popup"What a knee slapper!",1,"Best Friend",0+16
